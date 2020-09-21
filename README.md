@@ -1,3 +1,3 @@
 # DRL
 
-Deep Reinforcement LeEarning projects
+Deep Reinforcement Learning projects
